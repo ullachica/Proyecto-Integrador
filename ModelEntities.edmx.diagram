@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="af92ac7053384d4d8203312cba845b6d" Name="Diagram1">
+        <EntityTypeShape EntityType="BD_ProyectoIntegradorModel.Client" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_ProyectoIntegradorModel.DetailsOrders" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_ProyectoIntegradorModel.Order_Products" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_ProyectoIntegradorModel.Orders" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_ProyectoIntegradorModel.Products" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_ProyectoIntegradorModel.ShoppingCartData" Width="1.5" PointX="4.75" PointY="4.75" IsExpanded="true" />
+        <AssociationConnector Association="BD_ProyectoIntegradorModel.FK__Orders__ID_Clien__5812160E" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_ProyectoIntegradorModel.FK_DetailsOrders_Orders" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
