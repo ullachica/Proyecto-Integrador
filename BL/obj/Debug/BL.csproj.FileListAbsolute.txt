@@ -1,0 +1,13 @@
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\BL\bin\Debug\BL.dll
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\BL\bin\Debug\BL.pdb
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\BL\bin\Debug\BE.dll
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\BL\bin\Debug\DA.dll
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\BL\bin\Debug\Utilitario.dll
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\BL\bin\Debug\BE.pdb
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\BL\bin\Debug\DA.pdb
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\BL\bin\Debug\Utilitario.pdb
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\BL\obj\Debug\BL.csproj.CopyComplete
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\BL\obj\Debug\BL.dll
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\BL\obj\Debug\BL.pdb
