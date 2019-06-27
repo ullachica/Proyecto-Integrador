@@ -22,7 +22,6 @@ namespace DA
                 cmd.Parameters.AddWithValue("@Hyperlink", oBENoticias.Hyperlink);
                 cmd.Parameters.AddWithValue("@Title", oBENoticias.Title);
                 cmd.Parameters.AddWithValue("@IsEnabled", oBENoticias.IsEnabled);
-                cmd.Parameters.AddWithValue("@Autor", oBENoticias.Autor);
                 n = cmd.ExecuteNonQuery();
             }
             return n;
@@ -39,7 +38,6 @@ namespace DA
                 cmd.Parameters.AddWithValue("@Hyperlink", oBENoticias.Hyperlink);
                 cmd.Parameters.AddWithValue("@Title", oBENoticias.Title);
                 cmd.Parameters.AddWithValue("@IsEnabled", oBENoticias.IsEnabled);
-                cmd.Parameters.AddWithValue("@Autor", oBENoticias.Autor);
                 n = cmd.ExecuteNonQuery();
             }
             return n;
