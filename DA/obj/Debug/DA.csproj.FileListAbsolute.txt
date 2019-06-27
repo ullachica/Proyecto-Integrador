@@ -1,0 +1,11 @@
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\DA\bin\Debug\DA.dll
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\DA\bin\Debug\DA.pdb
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\DA\bin\Debug\BE.dll
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\DA\bin\Debug\Utilitario.dll
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\DA\bin\Debug\BE.pdb
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\DA\bin\Debug\Utilitario.pdb
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\DA\obj\Debug\DA.csprojAssemblyReference.cache
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\DA\obj\Debug\DA.csproj.CoreCompileInputs.cache
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\DA\obj\Debug\DA.csproj.CopyComplete
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\DA\obj\Debug\DA.dll
+D:\WILLIAM\TFSXF\MVCTennis\MVCProyectoIntegrador\DA\obj\Debug\DA.pdb
